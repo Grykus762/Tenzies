@@ -1,2 +1,2 @@
 # Tenzies
-Tenzies is a capstone Scrimba project that test your foundations and knowledge of React. It is built using Vite with React and Javascript
+Tenzies is a Scrimba capstone project that tests your understanding and development of your React foundations. It is built using Vite + React with Javascript
